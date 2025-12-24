@@ -1,0 +1,11 @@
+# Data Manipulation and Analysis
+pandas
+
+# Web Scraping and Automation
+beautifulsoup4
+selenium
+requests
+urllib3
+
+# Note: re, os, time, json, csv, zipfile, glob, and concurrent.futures 
+# are part of the Python Standard Library and do not need to be listed here.
